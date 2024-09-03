@@ -1,0 +1,92 @@
+# Arquivos e diretórios de build
+bin/
+obj/
+
+# Arquivos de configuração de usuário do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de configuração de usuário do Rider
+.idea/
+
+# Arquivos temporários do Visual Studio Code
+.vscode/
+
+# Pacotes NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+
+# Arquivos de dependências
+packages/
+
+# Logs
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de dependências (como o diretório de build)
+**/bin/
+**/obj/
+**/packages/
+
+# Arquivos do NuGet
+*.nupkg
+*.snupkg
+
+# Configuração de ferramentas
+.vscode/
+.idea/
+
+# Arquivos de configuração do ASP.NET
+appsettings*.json
+secrets.json
+
+# Arquivos gerados por ferramentas
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.csproj.user
+*.dbmdl
+
+# Arquivos de banco de dados locais
+*.sqlite
+*.db
+*.sdf
+
+# Arquivos do Unity
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.booproj
+
+# Arquivos de perfil do usuário
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj.user
+
+# Arquivos de cache do Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Outros arquivos temporários
+*.tmp
+*.swp
